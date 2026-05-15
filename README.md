@@ -4,4 +4,4 @@ A weboldal egy projektmunka részeként készült!
 
 A szövegeket és a menüt AI készítette!
 
-A weboldal forráskódját egyedül AI használata nélkül Nyolcas Marcell készítette!
+A kód szépen mondva össze van hányva! Mivel itt nem a kód kinézetére és hatékonyságára mentem ezért lehetnek hibák ami a weboldal kinézetén nem látszik!
