@@ -1,6 +1,6 @@
 # Nyoci Cat Café projekt README
 
-A weboldal egy projektmunka részeként készült!
+A weboldal egy feladat részeként készült!
 
 A szövegeket és a menüt AI készítette!
 
